@@ -2,7 +2,6 @@
 
 本專案以 Verilog 實作三個版本的 RGB → YUV 色彩空間轉換電路，分別探討 **面積、延遲（latency）、吞吐量（throughput）** 之間的設計取捨。三個版本使用相同的頂層介面（`RGB2YUV`），驗證方式是將一張 256×256 的 BMP 影像逐像素送入電路，再把 Y、U、V 三個分量各自輸出成影像檔。
 
-本專案為國立中山大學「電子系統層級設計與驗證」（Electronic System-Level Design and Verification）課程的 Lab 1（2026 年 3 月）。
 
 ## 轉換公式
 

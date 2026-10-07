@@ -1,5 +1,4 @@
-# RTL-Design-LAB
-# RTL Design Lab — RGB 轉 YUV 硬體加速器
+# RTL-Design-LAB — RGB 轉 YUV 硬體加速器
 
 [English](README.md) | 繁體中文
 
